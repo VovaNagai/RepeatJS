@@ -1,4 +1,9 @@
-"use strict";
+
+
+
+
+
+
 // const string = 'some string';
 // const iAmString = "second string";
 // const es6String = `hello world`;
@@ -318,6 +323,8 @@
 //     height: 600,
 //     title: "My menu"
 // };
+
+
 
 
 
