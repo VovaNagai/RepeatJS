@@ -1,8 +1,66 @@
+/*==============================================
+*
+*                   Условия
+*
+* ==============================================*/
 
+let num = 50;
 
+if(num < 49) {
+    console.log('No')
+} else if(num == 50) {
+    console.log('Yes')
+} else {
+    console.log('NaN')
+}
 
+/*==============================================
+*
+*                 Тернарный оператор
+*
+* ==============================================*/
 
+(num == 50)? console.log('Yes') : console.log('No');
 
+/*==============================================
+*
+*                   switch
+*
+* ==============================================*/
+
+switch (num) {
+    case 49:
+        console.log('No >');
+        break;
+    case 100:
+        console.log('No <');
+        break;
+    case 50:
+        console.log('YES ==');
+        break;
+    default:
+        console.log('Fatal NaN');
+        break;
+}
+
+/*==============================================
+*
+*                   Циклы
+*
+* ==============================================*/
+
+while (num <= 55) {
+    console.log(num++ );
+}
+
+do {
+    console.log('2: ' + num++ );
+}
+while (num <= 60);
+
+for(let i = 0; i <= 8; i++) {
+    console.log('3: ' + i)
+}
 
 // const string = 'some string';
 // const iAmString = "second string";
