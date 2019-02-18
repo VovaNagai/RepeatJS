@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d64669c-900b-47a1-9bc4-b09310e5a044" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lesson3_function/js/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3_function/js/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/js/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/task/js/user.js" afterDir="false" />
-    </list>
+    <list default="true" id="4d64669c-900b-47a1-9bc4-b09310e5a044" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,26 +20,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="10" />
-          <entry key="js" value="10" />
+          <entry key="html" value="11" />
+          <entry key="js" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="10" />
-          <entry key="JavaScript" value="10" />
+          <entry key="HTML" value="11" />
+          <entry key="JavaScript" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="37" />
-          <entry key="js" value="3892" />
+          <entry key="html" value="58" />
+          <entry key="js" value="4607" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="37" />
-          <entry key="JavaScript" value="3892" />
+          <entry key="HTML" value="58" />
+          <entry key="JavaScript" value="4607" />
         </counts>
       </usages-collector>
     </session>
@@ -79,13 +76,9 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task/js/user.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="23" selection-end-column="2" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -100,8 +93,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson3_function/hw3/js/user.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="265">
+              <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson3_function/hw3/index3.2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson3_function/hw3/js/user3.2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,8 +128,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -131,9 +148,11 @@
         <option value="$PROJECT_DIR$/lesson2_(Условия и циклы)/homework2/js/user.js" />
         <option value="$PROJECT_DIR$/lesson3_function/js/user.js" />
         <option value="$PROJECT_DIR$/task/index.html" />
-        <option value="$PROJECT_DIR$/task/js/user.js" />
         <option value="$PROJECT_DIR$/lesson3_function/hw3/index3hw.html" />
+        <option value="$PROJECT_DIR$/task/js/user.js" />
         <option value="$PROJECT_DIR$/lesson3_function/hw3/js/user.js" />
+        <option value="$PROJECT_DIR$/lesson3_function/hw3/index3.2.html" />
+        <option value="$PROJECT_DIR$/lesson3_function/hw3/js/user3.2.js" />
       </list>
     </option>
   </component>
@@ -143,7 +162,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="874" />
     <option name="y" value="-18" />
     <option name="width" value="974" />
@@ -174,6 +193,13 @@
               <item name="RepeatJS" type="462c0819:PsiDirectoryNode" />
               <item name="lesson3_function" type="462c0819:PsiDirectoryNode" />
               <item name="hw3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RepeatJS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RepeatJS" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson3_function" type="462c0819:PsiDirectoryNode" />
+              <item name="hw3" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,15 +238,15 @@
       <option name="presentableId" value="Default" />
       <updated>1550230289825</updated>
       <workItem from="1550230292335" duration="3397000" />
-      <workItem from="1550263626590" duration="22686000" />
+      <workItem from="1550263626590" duration="27266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26083000" />
+    <option name="totallyTimeSpent" value="30663000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15618336" />
@@ -363,17 +389,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/task/js/user.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson3_function/hw3/js/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="265">
+          <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task/js/user.js">
+    <entry file="file://$PROJECT_DIR$/lesson3_function/hw3/index3.2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="23" selection-end-column="2" />
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3_function/hw3/js/user3.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
