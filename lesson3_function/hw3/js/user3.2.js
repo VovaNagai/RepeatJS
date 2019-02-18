@@ -26,3 +26,5 @@ arr.forEach(function (i) {
     }
 });
 console.log(Math.sqrt(res));
+
+objec
