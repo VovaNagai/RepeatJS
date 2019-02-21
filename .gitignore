@@ -1,2 +1,4 @@
-/.idea
-/lesson
+/.idea/
+/lesson/
+/.git/
+/node_modules/

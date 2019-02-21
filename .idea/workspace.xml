@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d64669c-900b-47a1-9bc4-b09310e5a044" name="Default Changelist" comment="" />
+    <list default="true" id="4d64669c-900b-47a1-9bc4-b09310e5a044" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +37,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="95" />
-          <entry key="js" value="7204" />
+          <entry key="js" value="7206" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="95" />
-          <entry key="JavaScript" value="7204" />
+          <entry key="JavaScript" value="7206" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
@@ -63,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/lesson1_(Типы переменных)/hw1.1/js/user1.2hw.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+              <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -144,24 +146,6 @@
             <path>
               <item name="RepeatJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="RepeatJS" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson1_(Типы переменных)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RepeatJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RepeatJS" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson1_(Типы переменных)" type="462c0819:PsiDirectoryNode" />
-              <item name="hw1.1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RepeatJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RepeatJS" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson1_(Типы переменных)" type="462c0819:PsiDirectoryNode" />
-              <item name="hw1.1" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RepeatJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RepeatJS" type="462c0819:PsiDirectoryNode" />
               <item name="lesson4_object" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -211,16 +195,15 @@
       <option name="presentableId" value="Default" />
       <updated>1550230289825</updated>
       <workItem from="1550230292335" duration="3397000" />
-      <workItem from="1550263626590" duration="42102000" />
+      <workItem from="1550263626590" duration="42772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45499000" />
+    <option name="totallyTimeSpent" value="46169000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1167" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="974" height="1167" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31947485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -461,7 +444,7 @@
     <entry file="file://$PROJECT_DIR$/lesson1_(Типы переменных)/hw1.1/js/user1.2hw.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
         </state>
       </provider>
     </entry>
