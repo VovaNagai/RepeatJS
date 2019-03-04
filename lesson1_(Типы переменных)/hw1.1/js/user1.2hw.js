@@ -14,4 +14,6 @@ let result = num.reduce(function (a,b) {
     return a*b
 }, 1);
 
-console.log(`Произведение умножения числа методом: ${result}`);
+console.log(`Произведение умножения числа методом Reduce: ${result}`);
+
+console.log('Возведение в 3 степень: ' + Math.pow(result, 3));
