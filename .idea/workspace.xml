@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4d64669c-900b-47a1-9bc4-b09310e5a044" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/task/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/js/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/task/js/user.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,34 +24,34 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="27" />
-          <entry key="js" value="28" />
+          <entry key="css" value="2" />
+          <entry key="html" value="30" />
+          <entry key="js" value="32" />
           <entry key="less" value="2" />
           <entry key="md" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="27" />
-          <entry key="JavaScript" value="28" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="30" />
+          <entry key="JavaScript" value="32" />
           <entry key="Less" value="2" />
           <entry key="Markdown" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="113" />
-          <entry key="js" value="9808" />
-          <entry key="md" value="10" />
+          <entry key="html" value="151" />
+          <entry key="js" value="10893" />
+          <entry key="md" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="113" />
-          <entry key="JavaScript" value="9808" />
-          <entry key="Markdown" value="10" />
+          <entry key="HTML" value="151" />
+          <entry key="JavaScript" value="10893" />
+          <entry key="Markdown" value="29" />
         </counts>
       </usages-collector>
     </session>
@@ -57,51 +59,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.2/index.html">
+        <entry file="file://$PROJECT_DIR$/task/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="883">
-              <caret line="67" column="7" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.2/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="1003">
+              <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.2/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.1/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson 5 AccessElementsDOM/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/task/js/user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="81" column="3" lean-forward="true" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -134,12 +104,10 @@
         <option value="$PROJECT_DIR$/lesson2_(Условия и циклы)/js/user.js" />
         <option value="$PROJECT_DIR$/lesson1_(Типы переменных)/hw1.1/js/user.js" />
         <option value="$PROJECT_DIR$/lesson3_function/js/user.js" />
-        <option value="$PROJECT_DIR$/task/index.html" />
         <option value="$PROJECT_DIR$/lesson3_function/hw3/index3hw.html" />
         <option value="$PROJECT_DIR$/lesson3_function/hw3/js/user.js" />
         <option value="$PROJECT_DIR$/lesson3_function/hw3/index3.2.html" />
         <option value="$PROJECT_DIR$/lesson4_object/index.html" />
-        <option value="$PROJECT_DIR$/task/js/user.js" />
         <option value="$PROJECT_DIR$/lesson4_object/hw4/index4hw.html" />
         <option value="$PROJECT_DIR$/lesson4_object/hw4/user4hw.js" />
         <option value="$PROJECT_DIR$/lesson4_object/hw4/README.md" />
@@ -157,6 +125,12 @@
         <option value="$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.2/index.html" />
         <option value="$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.2/script.js" />
         <option value="$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.1/README.md" />
+        <option value="$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.2/README.md" />
+        <option value="$PROJECT_DIR$/lesson 5 AccessElementsDOM/README.md" />
+        <option value="$PROJECT_DIR$/Урок 6 - События в JS, обработчики событий и особенности их работы/index.html" />
+        <option value="$PROJECT_DIR$/Урок 6 - События в JS, обработчики событий и особенности их работы/js/user.js" />
+        <option value="$PROJECT_DIR$/task/index.html" />
+        <option value="$PROJECT_DIR$/task/js/user.js" />
       </list>
     </option>
   </component>
@@ -206,6 +180,25 @@
             </path>
             <path>
               <item name="RepeatJS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RepeatJS" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson 5 AccessElementsDOM" type="462c0819:PsiDirectoryNode" />
+              <item name="hw5" type="462c0819:PsiDirectoryNode" />
+              <item name="5.2" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RepeatJS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RepeatJS" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RepeatJS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RepeatJS" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RepeatJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -221,6 +214,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JS\RepeatJS\task" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -246,12 +244,12 @@
       <updated>1550230289825</updated>
       <workItem from="1550230292335" duration="3397000" />
       <workItem from="1550263626590" duration="48953000" />
-      <workItem from="1551697097543" duration="8391000" />
+      <workItem from="1551697097543" duration="17522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60741000" />
+    <option name="totallyTimeSpent" value="69872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1167" extended-state="0" />
@@ -333,6 +331,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
           <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -340,13 +341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task/js/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -361,13 +355,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson1_(Типы переменных)/hw1.1/js/index1.2hw.html" />
-    <entry file="file://$PROJECT_DIR$/task/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson1_(Типы переменных)/hw1.1/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -512,24 +499,12 @@
     <entry file="file://$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.2/css/style.less">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="883">
-          <caret line="67" column="7" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.2/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson 5 AccessElementsDOM/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -547,8 +522,55 @@
     <entry file="file://$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.2/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Урок 6 - События в JS, обработчики событий и особенности их работы/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Урок 6 - События в JS, обработчики событий и особенности их работы/js/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson 5 AccessElementsDOM/hw5/5.2/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/js/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="81" column="3" lean-forward="true" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
         </state>
       </provider>
     </entry>
